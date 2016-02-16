@@ -3,7 +3,8 @@ On my quest to teach myself machine learning, I decided to make a quick statisti
 
 The results? People love these three emojis the most (in order):
 
-|:heart_eyes:|:joy:|:sob:|
+:heart_eyes:|:joy:|:sob:
+--- | --- | ---
 
 Want to run it yourself? Cool. You'll need matplotlib and twython installed.
 
