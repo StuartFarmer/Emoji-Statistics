@@ -8,9 +8,9 @@ The results? People love these three emojis the most with the order adjusting sl
 
 A la this chart.
 
-[!Entire Chart](https://raw.githubusercontent.com/StuartFarmer/Emoji-Statistics/master/chart_all.png)
+![Entire Chart](https://raw.githubusercontent.com/StuartFarmer/Emoji-Statistics/master/chart_all.png)
 
-[!Zoomed in Chart](https://raw.githubusercontent.com/StuartFarmer/Emoji-Statistics/master/chart_zoom.png)
+![Zoomed in Chart](https://raw.githubusercontent.com/StuartFarmer/Emoji-Statistics/master/chart_zoom.png)
 
 Note that Matlibplot doesn't support emoji / I found it pointless to bend over backwards to implement the best UI in this case because this was more for my own education so the X axis is the UTF-8 byte representation of each emoji. You can look up what each of the UTF-8 bytes represent [here.](http://apps.timwhitlock.info/emoji/tables/unicode)
 
